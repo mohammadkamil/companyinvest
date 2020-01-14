@@ -1,0 +1,450 @@
+[
+    [
+        {
+            "id": 1611,
+            "productID": "1",
+            "productName": "tetikus",
+            "ProductIMG": null,
+            "productPrice": 100,
+            "userID": 7,
+            "quantity": 20,
+            "updated_at": "2019-12-13 13:54:12.478289",
+            "created_at": "2019-12-13 13:54:12.478289"
+        },
+        {
+            "id": 1612,
+            "productID": "2",
+            "productName": "keyboard",
+            "ProductIMG": null,
+            "productPrice": 300,
+            "userID": 7,
+            "quantity": 20,
+            "updated_at": "2019-12-13 13:54:12.508214",
+            "created_at": "2019-12-13 13:54:12.508214"
+        },
+        {
+            "id": 1613,
+            "productID": "3",
+            "productName": "webcam",
+            "ProductIMG": null,
+            "productPrice": 300,
+            "userID": 7,
+            "quantity": 15,
+            "updated_at": "2019-12-13 13:54:12.544719",
+            "created_at": "2019-12-13 13:54:12.544719"
+        },
+        {
+            "id": 1614,
+            "productID": "4",
+            "productName": "mouse pad",
+            "ProductIMG": null,
+            "productPrice": 20,
+            "userID": 7,
+            "quantity": 50,
+            "updated_at": "2019-12-13 13:54:12.574759",
+            "created_at": "2019-12-13 13:54:12.574759"
+        },
+        {
+            "id": 1615,
+            "productID": "5",
+            "productName": "earphone",
+            "ProductIMG": null,
+            "productPrice": 75,
+            "userID": 7,
+            "quantity": 20,
+            "updated_at": "2019-12-13 13:54:12.663888",
+            "created_at": "2019-12-13 13:54:12.663888"
+        },
+        {
+            "id": 1616,
+            "productID": "6",
+            "productName": "headphone",
+            "ProductIMG": null,
+            "productPrice": 200,
+            "userID": 7,
+            "quantity": 10,
+            "updated_at": "2019-12-13 13:54:12.699654",
+            "created_at": "2019-12-13 13:54:12.699654"
+        },
+        {
+            "id": 1617,
+            "productID": "7",
+            "productName": "usb drive 8 GB",
+            "ProductIMG": null,
+            "productPrice": 75,
+            "userID": 7,
+            "quantity": 20,
+            "updated_at": "2019-12-13 13:54:12.730311",
+            "created_at": "2019-12-13 13:54:12.730311"
+        },
+        {
+            "id": 1618,
+            "productID": "8",
+            "productName": "ram 8 GB DDR4",
+            "ProductIMG": null,
+            "productPrice": 400,
+            "userID": 7,
+            "quantity": 5,
+            "updated_at": "2019-12-13 13:54:12.766084",
+            "created_at": "2019-12-13 13:54:12.766084"
+        },
+        {
+            "id": 1619,
+            "productID": "9",
+            "productName": "cable rj45 1m",
+            "ProductIMG": null,
+            "productPrice": 8,
+            "userID": 7,
+            "quantity": 50,
+            "updated_at": "2019-12-13 13:54:12.799300",
+            "created_at": "2019-12-13 13:54:12.799300"
+        },
+        {
+            "id": 1620,
+            "productID": "10",
+            "productName": "cd rom",
+            "ProductIMG": null,
+            "productPrice": 280,
+            "userID": 7,
+            "quantity": 10,
+            "updated_at": "2019-12-13 13:54:12.829278",
+            "created_at": "2019-12-13 13:54:12.829278"
+        }
+    ],
+    [
+        {
+            "id": 1621,
+            "productID": "1",
+            "productName": "tetikus",
+            "ProductIMG": null,
+            "productPrice": 90,
+            "userID": 8,
+            "quantity": 25,
+            "updated_at": "2019-12-13 13:54:12.865756",
+            "created_at": "2019-12-13 13:54:12.865756"
+        },
+        {
+            "id": 1622,
+            "productID": "2",
+            "productName": "keyboard",
+            "ProductIMG": null,
+            "productPrice": 123,
+            "userID": 8,
+            "quantity": 44,
+            "updated_at": "2019-12-13 13:54:12.895762",
+            "created_at": "2019-12-13 13:54:12.895762"
+        },
+        {
+            "id": 1623,
+            "productID": "3",
+            "productName": "webcam",
+            "ProductIMG": null,
+            "productPrice": 222,
+            "userID": 8,
+            "quantity": 166,
+            "updated_at": "2019-12-13 13:54:12.932181",
+            "created_at": "2019-12-13 13:54:12.932181"
+        },
+        {
+            "id": 1624,
+            "productID": "4",
+            "productName": "mouse pad",
+            "ProductIMG": null,
+            "productPrice": 12,
+            "userID": 8,
+            "quantity": 22,
+            "updated_at": "2019-12-13 13:54:12.998631",
+            "created_at": "2019-12-13 13:54:12.998631"
+        },
+        {
+            "id": 1625,
+            "productID": "5",
+            "productName": "earphone",
+            "ProductIMG": null,
+            "productPrice": 211,
+            "userID": 8,
+            "quantity": 112,
+            "updated_at": "2019-12-13 13:54:13.028640",
+            "created_at": "2019-12-13 13:54:13.028640"
+        },
+        {
+            "id": 1626,
+            "productID": "6",
+            "productName": "headphone",
+            "ProductIMG": null,
+            "productPrice": 231,
+            "userID": 8,
+            "quantity": 66,
+            "updated_at": "2019-12-13 13:54:13.065017",
+            "created_at": "2019-12-13 13:54:13.065017"
+        },
+        {
+            "id": 1627,
+            "productID": "7",
+            "productName": "usb drive 8 GB",
+            "ProductIMG": null,
+            "productPrice": 67,
+            "userID": 8,
+            "quantity": 33,
+            "updated_at": "2019-12-13 13:54:13.095002",
+            "created_at": "2019-12-13 13:54:13.095002"
+        },
+        {
+            "id": 1628,
+            "productID": "8",
+            "productName": "ram 8 GB DDR4",
+            "ProductIMG": null,
+            "productPrice": 305,
+            "userID": 8,
+            "quantity": 15,
+            "updated_at": "2019-12-13 13:54:13.131457",
+            "created_at": "2019-12-13 13:54:13.131457"
+        },
+        {
+            "id": 1629,
+            "productID": "9",
+            "productName": "cable rj45 1m",
+            "ProductIMG": null,
+            "productPrice": 15,
+            "userID": 8,
+            "quantity": 22,
+            "updated_at": "2019-12-13 13:54:13.172560",
+            "created_at": "2019-12-13 13:54:13.172560"
+        },
+        {
+            "id": 1630,
+            "productID": "10",
+            "productName": "cd rom",
+            "ProductIMG": null,
+            "productPrice": 250,
+            "userID": 8,
+            "quantity": 40,
+            "updated_at": "2019-12-13 13:54:13.208985",
+            "created_at": "2019-12-13 13:54:13.208985"
+        }
+    ],
+    [
+        {
+            "id": 1631,
+            "productID": "1",
+            "productName": "tetikus",
+            "ProductIMG": null,
+            "productPrice": 110,
+            "userID": 9,
+            "quantity": 40,
+            "updated_at": "2019-12-13 13:54:13.238962",
+            "created_at": "2019-12-13 13:54:13.238962"
+        },
+        {
+            "id": 1632,
+            "productID": "2",
+            "productName": "keyboard",
+            "ProductIMG": null,
+            "productPrice": 350,
+            "userID": 9,
+            "quantity": 10,
+            "updated_at": "2019-12-13 13:54:13.275504",
+            "created_at": "2019-12-13 13:54:13.275504"
+        },
+        {
+            "id": 1633,
+            "productID": "3",
+            "productName": "webcam",
+            "ProductIMG": null,
+            "productPrice": 280,
+            "userID": 9,
+            "quantity": 30,
+            "updated_at": "2019-12-13 13:54:13.305604",
+            "created_at": "2019-12-13 13:54:13.305604"
+        },
+        {
+            "id": 1634,
+            "productID": "4",
+            "productName": "mouse pad",
+            "ProductIMG": null,
+            "productPrice": 40,
+            "userID": 9,
+            "quantity": 20,
+            "updated_at": "2019-12-13 13:54:13.341943",
+            "created_at": "2019-12-13 13:54:13.341943"
+        },
+        {
+            "id": 1635,
+            "productID": "5",
+            "productName": "earphone",
+            "ProductIMG": null,
+            "productPrice": 80,
+            "userID": 9,
+            "quantity": 60,
+            "updated_at": "2019-12-13 13:54:13.372008",
+            "created_at": "2019-12-13 13:54:13.372008"
+        },
+        {
+            "id": 1636,
+            "productID": "6",
+            "productName": "headphone",
+            "ProductIMG": null,
+            "productPrice": 215,
+            "userID": 9,
+            "quantity": 30,
+            "updated_at": "2019-12-13 13:54:13.419414",
+            "created_at": "2019-12-13 13:54:13.419414"
+        },
+        {
+            "id": 1637,
+            "productID": "7",
+            "productName": "usb drive 8 GB",
+            "ProductIMG": null,
+            "productPrice": 100,
+            "userID": 9,
+            "quantity": 50,
+            "updated_at": "2019-12-13 13:54:13.449467",
+            "created_at": "2019-12-13 13:54:13.449467"
+        },
+        {
+            "id": 1638,
+            "productID": "8",
+            "productName": "ram 8 GB DDR4",
+            "ProductIMG": null,
+            "productPrice": 450,
+            "userID": 9,
+            "quantity": 20,
+            "updated_at": "2019-12-13 13:54:13.485901",
+            "created_at": "2019-12-13 13:54:13.485901"
+        },
+        {
+            "id": 1639,
+            "productID": "9",
+            "productName": "cable rj45 1m",
+            "ProductIMG": null,
+            "productPrice": 10,
+            "userID": 9,
+            "quantity": 25,
+            "updated_at": "2019-12-13 13:54:13.515806",
+            "created_at": "2019-12-13 13:54:13.515806"
+        },
+        {
+            "id": 1640,
+            "productID": "10",
+            "productName": "cd rom",
+            "ProductIMG": null,
+            "productPrice": 250,
+            "userID": 9,
+            "quantity": 15,
+            "updated_at": "2019-12-13 13:54:13.552353",
+            "created_at": "2019-12-13 13:54:13.552353"
+        }
+    ],
+    [
+        {
+            "id": 1601,
+            "productID": "1",
+            "productName": "tetikus",
+            "ProductIMG": null,
+            "productPrice": 50,
+            "userID": 5,
+            "quantity": 40,
+            "updated_at": "2019-12-13 13:54:12.067391",
+            "created_at": "2019-12-13 13:54:12.067391"
+        },
+        {
+            "id": 1602,
+            "productID": "2",
+            "productName": "keyboard",
+            "ProductIMG": null,
+            "productPrice": 150,
+            "userID": 5,
+            "quantity": 1,
+            "updated_at": "2019-12-13 13:54:12.146104",
+            "created_at": "2019-12-13 13:54:12.146104"
+        },
+        {
+            "id": 1603,
+            "productID": "3",
+            "productName": "webcam",
+            "ProductIMG": null,
+            "productPrice": 250,
+            "userID": 5,
+            "quantity": 50,
+            "updated_at": "2019-12-13 13:54:12.176669",
+            "created_at": "2019-12-13 13:54:12.176669"
+        },
+        {
+            "id": 1604,
+            "productID": "4",
+            "productName": "mouse pad",
+            "ProductIMG": null,
+            "productPrice": 30,
+            "userID": 5,
+            "quantity": 5,
+            "updated_at": "2019-12-13 13:54:12.223617",
+            "created_at": "2019-12-13 13:54:12.223617"
+        },
+        {
+            "id": 1605,
+            "productID": "5",
+            "productName": "earphone",
+            "ProductIMG": null,
+            "productPrice": 50,
+            "userID": 5,
+            "quantity": 10,
+            "updated_at": "2019-12-13 13:54:12.267904",
+            "created_at": "2019-12-13 13:54:12.267904"
+        },
+        {
+            "id": 1606,
+            "productID": "6",
+            "productName": "headphone",
+            "ProductIMG": null,
+            "productPrice": 150,
+            "userID": 5,
+            "quantity": 10,
+            "updated_at": "2019-12-13 13:54:12.297825",
+            "created_at": "2019-12-13 13:54:12.297825"
+        },
+        {
+            "id": 1607,
+            "productID": "7",
+            "productName": "usb drive 8 GB",
+            "ProductIMG": null,
+            "productPrice": 50,
+            "userID": 5,
+            "quantity": 5,
+            "updated_at": "2019-12-13 13:54:12.334306",
+            "created_at": "2019-12-13 13:54:12.334306"
+        },
+        {
+            "id": 1608,
+            "productID": "8",
+            "productName": "ram 8 GB DDR4",
+            "ProductIMG": null,
+            "productPrice": 300,
+            "userID": 5,
+            "quantity": 5,
+            "updated_at": "2019-12-13 13:54:12.364339",
+            "created_at": "2019-12-13 13:54:12.364339"
+        },
+        {
+            "id": 1609,
+            "productID": "9",
+            "productName": "cable rj45 1m",
+            "ProductIMG": null,
+            "productPrice": 10,
+            "userID": 5,
+            "quantity": 10,
+            "updated_at": "2019-12-13 13:54:12.400860",
+            "created_at": "2019-12-13 13:54:12.400860"
+        },
+        {
+            "id": 1610,
+            "productID": "10",
+            "productName": "cd rom",
+            "ProductIMG": null,
+            "productPrice": 300,
+            "userID": 5,
+            "quantity": 5,
+            "updated_at": "2019-12-13 13:54:12.445028",
+            "created_at": "2019-12-13 13:54:12.445028"
+        }
+    ]
+]
